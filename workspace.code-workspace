@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": "../~workspace.git"
+		}
+	],
+	"settings": {
+		"git.allowForcePush": true,
+		"git.allowNoVerifyCommit": true,
+		"git.alwaysShowStagedChangesResourceGroup": true,
+		"git.alwaysSignOff": true,
+		"git.enableCommitSigning": true,
+		"git.enableSmartCommit": true,
+		"git.fetchOnPull": true,
+		"git.followTagsWhenSync": true,
+		"[markdown]": {
+		}
+	}
+}
